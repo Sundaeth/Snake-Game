@@ -1,0 +1,23 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d Game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sundaeth/Snake-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sundaeth/Snake-Game/issues"
+  },
+  "homepage": "https://github.com/Sundaeth/Snake-Game#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
