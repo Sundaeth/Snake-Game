@@ -5,7 +5,8 @@
   "main": "Snake.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d Game"
+    "deploy": "gh-pages -d Game",
+    "build": "build"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Sundaeth/Snake-Game/issues"
   },
-  "homepage": "https://github.com/Sundaeth/Snake-Game#readme",
+  "homepage": "https://github.com/Sundaeth/Snake-Game",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
